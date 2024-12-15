@@ -9,10 +9,10 @@
 - Named_CartArts - сканы полиграфии картриджей или дисков
 - Named_Snaps - скриншоты из игр, кроме скриншотов титульных экранов
 - Named_Titles - скриншоты титульных экранов
-- unreleased - неопубликованные сканы 
+- unreleased - неопубликованные сканы
 
 ## Альтернативные ссылки
 
-- [GitFlic]()
+- [GitFlic](https://gitflic.ru/project/segamark/sony-playstation-1-thumbnails.git)
 - [GitHub](https://github.com/SegaMark7/sega-genesis-thumbnails)
 
