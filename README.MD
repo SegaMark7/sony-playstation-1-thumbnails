@@ -13,6 +13,6 @@
 
 ## Альтернативные ссылки
 
-- [GitFlic](https://gitflic.ru/project/segamark/sega-genesis-thumbnails)
+- [GitFlic]()
 - [GitHub](https://github.com/SegaMark7/sega-genesis-thumbnails)
 
